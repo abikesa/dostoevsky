@@ -65,18 +65,18 @@ Now, I lay down my bet, with the conviction of a true gambler: Dostoevsky will t
 Do you dare challenge my wager? `- 1st iteration`
 
 ## 5 Perplexity
-## Nietzsche and Dostoevsky: Nodes and Neural Networks
+### Nietzsche and Dostoevsky: Nodes and Neural Networks
 
 In your metaphor, you suggest that Nietzsche's philosophy can be likened to a powerful node in a neural network, while Dostoevsky's approach is more akin to the complexity of the network itself. Let's explore this idea further:
 
-### Nietzsche: The Weighted Node
+#### Nietzsche: The Weighted Node
 
 Nietzsche's ideas, like a heavily weighted node in a neural network, exert a strong influence on the overall system. His concept of the **Übermensch** and the **will to power** are central to his philosophy, acting as a singular point of immense force that shapes the surrounding connections.
 
 - **Assertive Individuality:** Just as a node processes information and sends signals through the network, Nietzsche's philosophy emphasizes the individual's ability to create their own values and assert their existence in a world devoid of inherent purpose.
 - **Rejection of Conventional Morality:** Nietzsche's critique of traditional morality, particularly Christianity, is a bold rejection of the status quo. This node challenges the network to break free from societal constraints and embrace a new way of thinking.
 
-### Dostoevsky: The Neural Network
+#### Dostoevsky: The Neural Network
 
 In contrast, Dostoevsky's approach is more akin to the intricate web of interconnections within a neural network. His novels delve into the depths of human psychology, exploring the complex relationships between characters and the moral dilemmas they face.
 
