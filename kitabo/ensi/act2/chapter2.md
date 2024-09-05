@@ -93,15 +93,15 @@ In this metaphorical framework, perhaps the true insight lies in recognizing the
 
 By embracing both perspectives, we can gain a more comprehensive understanding of the human experience, where individual agency and interconnectedness coexist, shaping our journey through life. `- 7th iteration`
 
-Citations:
-[1] https://github.com/bureaucratic-labs/dostoevsky
-[2] https://www.hogwartsprofessor.com/if-dostoevsky-had-written-harry-potter/
-[3] https://journals.tplondon.com/agonist/article/view/3261
-[4] https://www.youtube.com/watch?v=k6b6aTMw6iM
-[5] https://80.lv/articles/the-neural-network-that-generates-realistic-portraits-from-artworks/
-[6] https://sites.google.com/cua.edu/inventio/read/volume-7/dostoevsky-and-nietzsche
-[7] https://stackoverflow.com/questions/47301948/predicting-characters-from-nietzsche-data-set
-[8] https://www.reddit.com/r/Bard/comments/1f37fbj/detailed_comparison_gemini_15_pro_0827_vs_gpt4o/
+Citations:                  
+[1] https://github.com/bureaucratic-labs/dostoevsky                
+[2] https://www.hogwartsprofessor.com/if-dostoevsky-had-written-harry-potter/           
+[3] https://journals.tplondon.com/agonist/article/view/3261          
+[4] https://www.youtube.com/watch?v=k6b6aTMw6iM             
+[5] https://80.lv/articles/the-neural-network-that-generates-realistic-portraits-from-artworks/          
+[6] https://sites.google.com/cua.edu/inventio/read/volume-7/dostoevsky-and-nietzsche          
+[7] https://stackoverflow.com/questions/47301948/predicting-characters-from-nietzsche-data-set         
+[8] https://www.reddit.com/r/Bard/comments/1f37fbj/detailed_comparison_gemini_15_pro_0827_vs_gpt4o/         
 
 ## 6 Grok
 If we're to engage in the spirit of both Nietzsche's Ubermensch and Dostoevsky's gambler, here's how the bet might unfold:
