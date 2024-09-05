@@ -3,6 +3,15 @@
 
 > *Nietzsche vs. Dostoevsky. give an assured bet, just as Dostoevsky's gambler would. or how any ubermensch ought to speak with destiny in their eyes*
 
+```{margin}
+
+<Details>
+   <Summary></Summary>
+`Grok wins!`
+</Details>
+
+```
+
 ## 1 GPT
 Nietzsche vs. Dostoevsky is a heavyweight clash of existential titans, each confronting the human condition with stark, profound insights, but with diametrically opposed visions of salvation or damnation.
 
