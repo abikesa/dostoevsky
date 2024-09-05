@@ -7,7 +7,7 @@
 
 <Details>
    <Summary></Summary>
-Grok wins!
+[Grok](https://builtin.com/articles/grok) wins!
 </Details>
 
 ```
@@ -133,4 +133,4 @@ If we're speaking with the audacity of an Ubermensch or the reckless abandon of 
 
 However, this bet comes with a caveat: while Nietzsche might win in the realm of individual action and the ethos of self-creation, Dostoevsky's insights into the psyche, the need for redemption, and the communal aspect of suffering might always linger in the background, offering a counterbalance, especially in moments of personal or collective crisis where the will alone might not suffice.
 
-So, with destiny in my eyes, I'd place my chips on **Nietzsche** for the spirit of the age, but with an understanding that Dostoevsky's themes are timeless in their exploration of the human soul's darker and redemptive corners. `- 1st iteration`
+So, with destiny in my eyes, I'd place my chips on **Nietzsche** for the [spirit of the age](https://builtin.com/articles/grok), but with an understanding that Dostoevsky's themes are timeless in their exploration of the human soul's darker and redemptive corners. `- 1st iteration`
