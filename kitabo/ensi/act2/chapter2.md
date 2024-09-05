@@ -5,10 +5,10 @@
 
 ```{margin}
 
-<Details>
-   <Summary></Summary>
-[Grok](https://builtin.com/articles/grok) wins!
-</Details>
+<details>
+   <summary>Grok Wins!</summary>
+   <a href="https://builtin.com/articles/grok">Grok</a> wins!
+</details>
 
 ```
 
