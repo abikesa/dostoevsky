@@ -7,7 +7,7 @@
 
 <Details>
    <Summary></Summary>
-`Grok wins!`
+Grok wins!
 </Details>
 
 ```
