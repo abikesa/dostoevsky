@@ -26,10 +26,13 @@ Professionals, like scientists, musicians, poets, and analysts, rely on these co
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7KcIAmqkXOU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<audio controls style="width: 60%;">
-  <source src="../media/chordal-modal.mp3" type="audio/mp3">
-  Your browser does not support the audio element.
-</audio>
+<div style="text-align: center;">
+  <audio controls style="width: 60%;">
+    <source src="../media/chordal-modal.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+</div>
+
 
 ```{admonition} Chordal & Modal
 :class: tip
