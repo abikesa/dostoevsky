@@ -1,46 +1,59 @@
-(act3-webApp)=
-# Rankings
-We draw a connection between Nietzsche's critique of historical use and the recent events surrounding the toppling of monuments during the pandemic and the George Floyd protests. Nietzsche warned against a one-sided, critical approach to history that seeks only to deconstruct and criticize the past without appreciating its inspiring (monumental) or preservational (antiquarian) roles. 
+# Act 1: Reharmonizing Tradition, Syncopating Spirit
 
-The destruction of monuments, especially those connected to colonialism or slavery, resonates with Nietzsche's idea of history being "used" or "abused" based on present needs. In this case, the critical aspect of history was deployed to question and dismantle symbols of oppression, but perhaps without the balancing acts of remembering and learning from the past's complexities.
+```{admonition} The Gambler
+_“Upon the fact that to the virtues and merits of the `civilised` Westerner there has become historically added—though this is not his chief point—a capacity for `acquiring capital`; whereas, not only is the Russian incapable of acquiring capital, but also he exhausts it `wantonly` and of sheer folly. None the less we Russians often need money; wherefore, we are glad of, and greatly devoted to, a method of acquisition like `roulette`—whereby, in a couple of hours, one may grow rich without doing any work. This method, I repeat, has a great attraction for us, but since we play in wanton fashion, and without taking any trouble, we almost invariably lose.”_ - Alexei Ivanovich, *The Gambler*  
+```
 
-Harold Bloom's "school of resentment" is a fitting addition to this conversation. Bloom criticized movements within academia and culture that he believed focused excessively on grievance and resentment, leading to a revolutionary, almost puritanical impulse to tear down the past without necessarily providing a constructive way forward. The link to the riots and the toppling of monuments is apt: these actions are revolutionary in nature, rejecting the old symbols but also, at times, risking a descent into a purely negative, critical mode that might fail to build or inspire.
+## Choirs
+1. Strategy: anglican vs. secular 💵🎱🎲🃏 
+2. Payoff: AYF fans get `salvation` through effort grace vs & Afrigo fans get `redemption` in luck & chance 🦠 🧬 🧪 
+3. Nash: friendship.character.ethics -`Rx diversion`
+   - Global networks of friends with hardly a commercial angle; very inimate across generations
+   - Similar networks but commercial relation to fans; no intimacy and only older generation
 
-In both Nietzsche and Bloom's critiques, there's an underlying warning: history's power lies not just in its ability to condemn but also in its capacity to elevate, inspire, and offer a sense of continuity. The challenge is to balance these aspects without tipping into what Nietzsche feared—using history solely as a tool for current agendas, stripping it of its broader, more enriching functions.
+## Your Life is Not a Gamble!
+AYF, a choir from Uganda with deep ties to the Christian faith, delivers a stark message through their song *"Your Life is Not a Gamble!"* Written by a founding member who is now a statistician at Makerere University, this piece emphasizes control, order, and faith in contrast to the randomness suggested by chance. The song is a melodic counterpoint to the secular world, where life's outcomes are often viewed as unpredictable.
 
-## Jung vs. Freud
+Here's a creative comparison of strategies and payoffs between secular and Christian narratives:
 
-                    1. Chaos
-                            \
-               2. Frenzy -> 4. Uncommunicable -> 5. Algorithms -> 6. Binary
-                            /
-                             3. Energy
+- **Strategy 1 (Secular, Afrigo Band):** Rooted in secular ideals, where life is seen as a mixture of effort and chance, the **"gamble"** plays out with its inherent risks. Payoff here relies on fleeting moments of success.
+  
+- **Strategy 2 (Anglican, AYF):** Anchored in faith, **AYF**’s narrative rejects the idea of life as a gamble. It promotes **grace** and deliberate action over randomness, providing a spiritual safety net.
 
-### Id 1, 2, 3
-### Ego 4
-### Superego 5, 6 
+The AYF’s philosophy aligns with the hymnal reflections of strategic order and the acceptance of divine grace—**not chance.**
 
-Carl Jung vs. Sigmund Freud is a classic debate in psychology, often filled with passion and strong opinions. Here's my take:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NUjlohGkvLY" title="Your life is not a gamble!"></iframe>
 
-1. **Sigmund Freud**: Freud's contributions to psychology are monumental. He is the father of psychoanalysis, introducing concepts such as the unconscious mind, defense mechanisms, and the importance of early childhood experiences. Freud's theories on the Oedipus complex, id, ego, and superego have deeply influenced not only psychology but also culture, literature, and art. His work laid the foundation for understanding human behavior, making him indispensable in the history of psychology. However, many of his ideas are now seen as outdated and overly focused on sexuality.
+```{figure} ../figures/blanche.*
+---
+width: 1
+height: 1
+---
+_**Place Holders**_. *x,y* are placeholders for the personal and `emotional`, *z* for the household and `tragic`, and *h,t* for the firm and government `narrative`. In *AYF’s gamble*, life's payoffs are dictated by moral reckoning, rather than sheer randomness.
+```
 
-2. **Carl Jung**: Jung expanded on Freud's ideas but took them in a different, and arguably more holistic, direction. He introduced concepts such as the collective unconscious, archetypes, and individuation. Jung's work is profound in exploring the deeper layers of the psyche and connecting psychological experiences with spirituality and mythology. His theories on introversion and extraversion form the basis of modern personality psychology. While Jung's ideas can be seen as more esoteric, they offer a richer, more nuanced understanding of the human mind.
+---
 
-### Ranking:
+## Kabasibwa Kyi - Dance as Syncopated Faith
 
-1. **Freud**: For foundational influence, groundbreaking theories, and establishing psychoanalysis as a field.
-2. **Jung**: For expanding the scope of psychology, introducing enduring concepts like archetypes, and bridging psychology with broader cultural and spiritual dimensions.
+The Ankore region of Uganda has provided a rich cultural backdrop for many Ugandan songs, and **"Kabasibwa Kyi"** is a prime example of rhythm and spiritual interaction. The syncopated rhythm invites audience clapping—very much like **flamenco** in spirit and actual rhythm. There is an almost celebratory yet devout participation from the audience, with hands thrust in the air and stomping, much like the passionate dance form of flamenco. The difference here is in the simplicity and rawness of the movement, where **stomping replaces shoes' rhythmic taps.**
 
-### Personal Preference:
+Yet, as much as the spirit of syncopation is honored, there are instances where the traditional “pocket” is lost in favor of modern, African pop interpretations. While these versions might be more accessible to a larger audience, they often simplify the complex polyrhythmic elements integral to the original.
 
-I find Jung's work more compelling and applicable in understanding the human psyche in a broader, more integrative way. His ideas on the collective unconscious and archetypes resonate deeply with the complexities of human experience, making him my preferred thinker in this comparison. However, Freud's pioneering work cannot be understated, and his foundational theories are essential to the study of psychology.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Kw6X292gUoI" title="Kabasibwa Kyi - Decent pocket, missing complexity"></iframe>
 
-### Linear 1, 2, 3
-### Categorical [4](https://www.youtube.com/watch?v=TYAKHLrr51w)
-### Binary 5, 6 
+```{figure} ../figures/blanche.*
+---
+width: 1
+height: 1
+---
+_**Place Holders**_. This rendition presents a rhythmic interpretation that simplifies the original syncopation. While it remains "decent," there is a noticeable loss in complexity that recalls the tension between art that honors tradition and art that modernizes it.
+```
 
-                    1. Error
-                            \
-    2. Fit: Bias-Variance -> 4. Rankings -> 5. Top -> 6. Achievement
-                            /
-                             3. Mean
+---
+
+In both pieces, the equilibrium emerges when the balance between original intent and interpretation is struck. The loss of syncopation for a more accessible, mainstream “pocket” might appeal to larger crowds but sacrifices some of the intricate rhythmic identity of the Ankore region and AYF’s spiritual mission.
+
+---
+
+Let me know how you'd like to iterate on this!
