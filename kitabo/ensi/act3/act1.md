@@ -13,7 +13,7 @@ _“Upon the fact that to the virtues and merits of the `civilised` Westerner th
    - Similar networks but commercial relation to fans; no intimacy and only older generation
 
 ## Your Life is Not a [Gamble](https://www.youtube.com/watch?v=SSRYxFjIe3Q)!
-AYF, a choir from Uganda with deep ties to the Christian faith, delivers a stark message through their song *"Your Life is Not a Gamble!"* Written by a founding member who is now a statistician at Makerere University, this piece emphasizes control, order, and faith in contrast to the randomness suggested by chance. The song is a melodic counterpoint to the secular world, where life's outcomes are often viewed as unpredictable.
+AYF, a choir from Uganda with deep ties to the Christian faith, delivers a stark message through their song *"Your Life is Not a Gamble!"* Written by a [founding member](https://easi.ac.ug/dr-abraham-owino/) who is now a statistician at Makerere University, this piece emphasizes control, order, and faith in contrast to the randomness suggested by chance. The song is a melodic counterpoint to the secular world, where life's outcomes are often viewed as unpredictable.
 
 Understood! Let’s reorganize with the structure you need, keeping **1. Strategy, 2. Payoff, and 3. Nash Equilibrium** clear and distinct. Here's a more structured reharmonization, with a clearer delineation of each section, while maintaining the comparison between **AYF** and **Afrigo**:
 
