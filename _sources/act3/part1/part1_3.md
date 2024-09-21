@@ -4,7 +4,7 @@
 > 
 
 ```{admonition} Tyler Perry
-_[Divorce in the black](https://en.wikipedia.org/wiki/Divorce_in_the_Black)_
+_[Divorce in the black](https://en.wikipedia.org/wiki/Divorce_in_the_Black)_, with faith in yourself & the dignity of your circumstance intact
 ```
 
 Tyler Perry’s success, like [Babyface’s](https://en.wikipedia.org/wiki/Babyface_(musician)), hinges on his deep understanding of an audience often overlooked by mainstream industries: black women, particularly those with Christian values. Critics may dismiss his films and plays for their simplicity or melodrama, but they overlook a crucial aspect: Perry’s work mirrors **The School of Athens** in its dignified portrayal of love, family, and faith as structured, resilient experiences. His audience finds in his stories a reflection of their **aspirational values**—love as an experience that, while fraught with challenges, ultimately reinforces dignity and faith.
@@ -23,7 +23,7 @@ gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   - **Strategic Faith**: Perry’s characters may face suffering, but they do so with an underlying **structure** that provides resilience. This echoes **The School of Athens**, where faith and dignity create a framework for navigating life’s challenges. Perry’s success stems from portraying love and life as inherently structured, with a clear path to redemption.
 
 - **Critics’ Plebeian Perspective (Chaotic Melodrama):**  
-  Critics of Tyler Perry often see his work as **chaotic melodrama**, dismissing the emotional simplicity or moral resolutions in his films. From this vantage point, Perry’s characters appear to be caught in a repetitive cycle of suffering and redemption, which critics see as lacking depth or complexity. However, what they miss is that Perry’s melodrama is not a **chaos-roulette**; it is **calculated**, intended to reflect the **structured resilience** his audience experiences in real life. His narratives serve as **emotional blueprints** for navigating crises with faith and dignity intact.
+  Critics of Tyler Perry often see his work as **chaotic melodrama**, dismissing the emotional simplicity or moral resolutions in his films. From this vantage point, Perry’s characters appear to be caught in a repetitive cycle of suffering and redemption, which critics see as lacking depth or complexity. However, what they miss is that Perry’s melodrama is not a **chaos-roulette**; it is **calculated**, intended to reflect the **structured resilience** his audience experiences in real life. His narratives serve as **emotional blueprints** for navigating crises `with faith and dignity intact`.
 
 ---
 
