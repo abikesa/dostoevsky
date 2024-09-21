@@ -1,8 +1,12 @@
 # **Chapter 3: Tyler Perry and the School of Athens – A Reharmonization of Popular Criticism**
 
-> Divorce in the black
+> 
 
-Tyler Perry’s success, like Babyface’s, hinges on his deep understanding of an audience often overlooked by mainstream industries: black women, particularly those with Christian values. Critics may dismiss his films and plays for their simplicity or melodrama, but they overlook a crucial aspect: Perry’s work mirrors **The School of Athens** in its dignified portrayal of love, family, and faith as structured, resilient experiences. His audience finds in his stories a reflection of their **aspirational values**—love as an experience that, while fraught with challenges, ultimately reinforces dignity and faith.
+```{admonition} Tyler Perry
+_[Divorce in the black](https://en.wikipedia.org/wiki/Divorce_in_the_Black)_
+```
+
+Tyler Perry’s success, like [Babyface’s](https://en.wikipedia.org/wiki/Babyface_(musician)), hinges on his deep understanding of an audience often overlooked by mainstream industries: black women, particularly those with Christian values. Critics may dismiss his films and plays for their simplicity or melodrama, but they overlook a crucial aspect: Perry’s work mirrors **The School of Athens** in its dignified portrayal of love, family, and faith as structured, resilient experiences. His audience finds in his stories a reflection of their **aspirational values**—love as an experience that, while fraught with challenges, ultimately reinforces dignity and faith.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A4C4NiVKrXk" 
 frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
