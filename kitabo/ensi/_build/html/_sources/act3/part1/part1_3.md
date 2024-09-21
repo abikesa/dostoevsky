@@ -1,4 +1,5 @@
-# **Chapter 3: Tyler Perry and the School of Athens – A Reharmonization of Popular Criticism**
+# **Chapter 3
+## Tyler Perry and the School of Athens – A Reharmonization of Popular Criticism**
 
 > 
 
