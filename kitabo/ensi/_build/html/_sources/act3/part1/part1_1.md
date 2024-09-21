@@ -1,5 +1,4 @@
 # Chapter 1
-
 ## Reharmonizing Love and Fate with Shanice’s *Ain’t Got No Remedies*
 
 In this exploration of the song *Ain’t Got No Remedies* by Shanice, written by Kenny Edmonds, we’ll use a game-theoretic framework to reharmonize its themes of love, relationships, and fate. The juxtaposition of **plebeian anxiety** versus **aristocratic nonchalance** can be framed as two divergent strategies for navigating love and life. This reharmonization will compare **strategies**, **payoffs**, and a final equilibrium, much like Dostoevsky's *The Gambler* but applied to the realm of love and societal dynamics.
