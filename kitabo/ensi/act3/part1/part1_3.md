@@ -1,5 +1,5 @@
-# **Chapter 3
-## Tyler Perry and the School of Athens – A Reharmonization of Popular Criticism**
+# Chapter 3
+## Tyler Perry and the School of Athens – A Reharmonization of Popular Criticism
 
 > 
 
@@ -51,7 +51,7 @@ gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-## Conclusion: Redeeming Tyler Perry Through the School of Athens
+###### Conclusion: Redeeming Tyler Perry Through the School of Athens
 
 **Tyler Perry**, much like **Babyface**, crafts narratives that cater to an aspirational audience, particularly black Christian women who find in his stories a reflection of their values and struggles. His characters experience love and life through a lens of **grace** and **resilience**, rejecting the chaos and cynicism that many critics expect. Perry’s work represents **The School of Athens**, where love and faith are **structured**, dignified experiences, offering clear paths to redemption and emotional stability.
 
