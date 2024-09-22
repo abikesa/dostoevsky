@@ -1,9 +1,12 @@
-# Act 1
-## Reharmonizing Tradition, Syncopating Spirit
+# Act 1: Reharmonizing Tradition, Syncopating Spirit
+
+## The Gambler’s Dilemma: Virtue or Folly?
 
 ```{admonition} The Gambler
 _“Upon the fact that to the virtues and merits of the `civilised` Westerner there has become historically added—though this is not his chief point—a capacity for `acquiring capital`; whereas, not only is the Russian incapable of acquiring capital, but also he exhausts it `wantonly` and of sheer folly. None the less we Russians often need money; wherefore, we are glad of, and greatly devoted to, a method of acquisition like `roulette`—whereby, in a couple of hours, one may grow rich without doing any work. This method, I repeat, has a great attraction for us, but since we play in wanton fashion, and without taking any trouble, we almost invariably lose.”_ - Alexei Ivanovich, *The Gambler*  
 ```
+
+---
 
 ## Ugandan Choirs
 1. Strategy: anglican vs. secular 💵🎱🎲🃏 
@@ -16,16 +19,6 @@ _“Upon the fact that to the virtues and merits of the `civilised` Westerner th
 AYF, a choir from Uganda with deep ties to the Christian faith, delivers a stark message through their song *"Your Life is Not a Gamble!"* Written by a [founding member](https://easi.ac.ug/dr-abraham-owino/) who is now a statistician at Makerere University, this piece emphasizes control, order, and faith in contrast to the randomness suggested by chance. The song is a melodic counterpoint to the secular world, where life's outcomes are often viewed as unpredictable.
 
 Understood! Let’s reorganize with the structure you need, keeping **1. Strategy, 2. Payoff, and 3. Nash Equilibrium** clear and distinct. Here's a more structured reharmonization, with a clearer delineation of each section, while maintaining the comparison between **AYF** and **Afrigo**:
-
----
-
-# Act 1: Reharmonizing Tradition, Syncopating Spirit
-
-## The Gambler’s Dilemma: Virtue or Folly?
-
-```{admonition} The Gambler
-_“Upon the fact that to the virtues and merits of the `civilised` Westerner there has become historically added—though this is not his chief point—a capacity for `acquiring capital`; whereas, not only is the Russian incapable of acquiring capital, but also he exhausts it `wantonly` and of sheer folly. None the less we Russians often need money; wherefore, we are glad of, and greatly devoted to, a method of acquisition like `roulette`—whereby, in a couple of hours, one may grow rich without doing any work. This method, I repeat, has a great attraction for us, but since we play in wanton fashion, and without taking any trouble, we almost invariably lose.”_ - Alexei Ivanovich, *The Gambler*  
-```
 
 ---
 
