@@ -1,4 +1,4 @@
-(webApp-opensource)=
 # Bibliography
 
 ```{bibliography}
+```
