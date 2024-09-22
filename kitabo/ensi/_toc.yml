@@ -15,7 +15,7 @@ chapters:
   # Payoff
   - file: act2/part2
     sections:
-      - title: Chapter1
+      - title: Chapter 1
         file: act2/chapter1
       - title: Chapter 2
         file: act2/chapter2
