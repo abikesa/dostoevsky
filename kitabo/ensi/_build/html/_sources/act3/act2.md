@@ -8,7 +8,7 @@ _The Aristocratic Candidate_: Representing resilience and dignity in a changing 
 Kamala Harris stands as a symbol of resilience, channeling the **aristocratic strength** of the Black woman—twice a minority, yet undefeated by the structural challenges that define modern America. Against Donald Trump, who cultivates a base dominated by **white plebeians**—resentful, nostalgic for a past that favored them and ignorant of the progress that threatens their comfortable illusions—Harris embodies a different kind of aristocracy. Her story is one of **aspirational resilience**, a trait long undervalued in American politics. As Trump attacks his opponents as the "liberal elite," the irony runs deep: he himself is the billionaire acting as the populist hero to a crowd increasingly detached from the evolving realities of the world around them.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/48_gVN9iSao" 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bZasBoVhuUA" 
 frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
 gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
