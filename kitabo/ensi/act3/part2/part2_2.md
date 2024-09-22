@@ -3,7 +3,7 @@ This musical progression is an excellent way to map out the philosophical journe
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MqTNPZNDL8A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-```{figure} ../figures/blanche.*
+```{figure} ../../figures/blanche.*
 ---
 _Eternal Recurrence on `V7♭9♯9♭13`_. The harmonic tension around the V7 in its various inversions (root V7, #9, ♭7th, and ♭13th) creates a cyclical feeling that never fully resolves, giving the sense of being "trapped." This mirrors the structure of an eternal recurrence, where the progression keeps looping back without reaching a traditional resolution. Meanwhile, the pentatonic melody on C♯9 minor floats above this harmonic tension, adding to the song's unique pull. **This** tension between the melody's simplicity and the harmony's complexity is key to why *Old Town Road* feels both [catchy and deep](https://www.reddit.com/r/musictheory/comments/by4tjk/what_do_you_guys_think_of_this_analysis_of_old/). The pentatonic scale, which is so deeply rooted in American folk and blues traditions, contrasts beautifully with the rich chromatic possibilities of the V7 chord. It's almost as if the song is caught between two worlds: the straightforward, grounded pentatonic melody and the shifting, unresolved harmonic undercurrent. This combination of harmonic stasis and melodic freedom creates a hypnotic loop, which is a hallmark of much great music. **It's** a brilliant way to manipulate the listener's expectations, keeping them in a perpetual state of anticipation.
 ---
