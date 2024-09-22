@@ -18,10 +18,6 @@ To extend the metaphor from Dostoevsky’s *The Gambler* and adapt it to a more 
 
 ---
 
-Glad you enjoyed that! Let's weave in **Russian roulette** to deepen the metaphor.
-
----
-
 ## **Civilized Westerner vs. Wanton Russian: Strategies and Capital**
 
 ### **1. Strategy: Insurance vs. Russian Roulette**
