@@ -60,3 +60,18 @@ Your analysis of Woody Allen's *Match Point* through the lens of transforming pe
 
 Bill Gates' selective nature as a teenager is both fascinating and telling. It speaks to his sharp focus and vision early on. Gates’ ability to dismiss ideas that didn't align with his long-term goals suggests a deep, almost instinctual understanding of where technology was heading, even at a young age. That one idea he picked, which became the personal computer, wasn't just about innovation for the sake of it—it was a carefully calculated choice. Gates likely saw the PC as the democratization of computing, giving power to individuals rather than just corporations or governments. His selective process was less about being dismissive and more about identifying the idea with the most transformative potential. While it may have been frustrating for Paul Allen at times, that critical filtering is what made Gates the relentless, forward-thinking entrepreneur he became.
 ::::
+
+<Details>
+    <Summary>Tech is Marxist</Summary>
+
+It's a fascinating thread to pull on—the idea that these tech titans essentially `democratized` access to what were once luxuries of the elite. Jeff Bezos, with Amazon, broke down the barriers to knowledge and consumption. He turned what was once a library in the mansion of a scholar or aristocrat into something every person could access from their couch, expanding from books to everything imaginable. Bezos isn't just selling goods; he's selling power, convenience, and access—privileges previously reserved for the few (ART-STEM-DNR).
+
+Similarly, Zuckerberg took the private networks of the Ivy Leagues—once exclusive domains where power and influence were consolidated—and gave it to the world. He understood that connecting people on a massive scale could unlock new realms of influence, and so what was a playground for the elite became the global agora for the masses.
+
+Then there's Google, spearheaded by Page and Brin. Before search engines, accessing specialized knowledge often required formal education, elite libraries, or the privilege of time and location. Google turned the world into a searchable database—every niche, every fact, accessible in seconds. It's almost anti-aristocratic in nature; there’s no gatekeeper anymore.
+
+Apple, and particularly Steve Jobs, pulled off something even more intimate by placing this unprecedented power quite literally in the palms of the masses. The iPhone is like the culmination of all these efforts—information, commerce, and social connectivity, all compressed into a single device. The world used to be for the few, and now it’s for anyone who can afford an iPhone or a smartphone.
+
+It's this mass accessibility, this transfer of power, that underpins their wealth. They’ve flipped the traditional model of privilege on its head—not by hoarding it, but by distributing it en masse, and in doing so, they’ve been rewarded with untold riches.
+
+</Details>
