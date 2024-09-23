@@ -1,12 +1,13 @@
 
+
 <!DOCTYPE html>
 
 
-<html lang="en" data-content_root="../" >
+<html lang="en" data-content_root="" >
 
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
 
     <title>Part 3 &#8212; The Gambler</title>
   
@@ -28,43 +29,42 @@
 <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
 <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
 
-    <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=fa44fd50" />
-    <link rel="stylesheet" type="text/css" href="../_static/styles/sphinx-book-theme.css?v=a3416100" />
-    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css?v=13237357" />
-    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css?v=76b2166b" />
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/sphinx-book-theme.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css" />
     <link rel="stylesheet" type="text/css" href="../_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
-    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css?v=4fa983c6" />
-    <link rel="stylesheet" type="text/css" href="../_static/sphinx-design.min.css?v=87e54e7c" />
-    <link rel="stylesheet" type="text/css" href="../_static/sphinx-dropdown.css?v=995e94df" />
-    <link rel="stylesheet" type="text/css" href="../_static/panels-bootstrap.min.css?v=21c0b90a" />
-    <link rel="stylesheet" type="text/css" href="../_static/book-stylesheet.css?v=cd6267f6" />
-    <link rel="stylesheet" type="text/css" href="../_static/custom.css?v=5000aeb4" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-design.5ea377869091fd0449014c60fc090103.min.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-dropdown.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/panels-bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/book-stylesheet.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/custom.css" />
   
   <!-- Pre-loaded scripts that we'll load fully later -->
   <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
 <link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
   <script src="../_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
 
-    <script src="../_static/documentation_options.js?v=9eb32ce0"></script>
-    <script src="../_static/doctools.js?v=9a2dae69"></script>
-    <script src="../_static/sphinx_highlight.js?v=dc90522c"></script>
-    <script src="../_static/clipboard.min.js?v=a7894cd8"></script>
-    <script src="../_static/copybutton.js?v=f281be69"></script>
-    <script src="../_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/_sphinx_javascript_frameworks_compat.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/sphinx_highlight.js"></script>
+    <script src="../_static/clipboard.min.js"></script>
+    <script src="../_static/copybutton.js"></script>
+    <script src="../_static/scripts/sphinx-book-theme.js"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
-    <script src="../_static/togglebutton.js?v=4a39c7ea"></script>
+    <script src="../_static/togglebutton.js"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
-    <script src="../_static/design-tabs.js?v=f930bc37"></script>
+    <script src="../_static/design-tabs.js"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
-    <script async="async" src="../_static/sphinx-thebe.js?v=c100c467"></script>
-    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
-    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
-    <script>window.MathJax = {"options": {"processHtmlClass": "tex2jax_process|mathjax_process|math|output_area"}}</script>
-    <script defer="defer" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <script async="async" src="../_static/sphinx-thebe.js"></script>
     <script>DOCUMENTATION_OPTIONS.pagename = 'act3/part3';</script>
-    <script src="../_static/script.js?v=749f486f"></script>
+    <script src="../_static/script.js"></script>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
     <link rel="next" title="Act 1" href="act1.html" />
@@ -412,14 +412,14 @@ document.write(`
                 <article class="bd-article">
                   
   <section class="tex2jax_ignore mathjax_ignore" id="part-3">
-<h1>Part 3<a class="headerlink" href="#part-3" title="Link to this heading">#</a></h1>
+<h1>Part 3<a class="headerlink" href="#part-3" title="Permalink to this heading">#</a></h1>
 <div class="admonition-the-gambler admonition">
 <p class="admonition-title">The Gambler</p>
 <p><em>“Upon the fact that to the virtues and merits of the <code class="docutils literal notranslate"><span class="pre">civilised</span></code> Westerner there has become historically added—though this is not his chief point—a capacity for <code class="docutils literal notranslate"><span class="pre">acquiring</span> <span class="pre">capital</span></code>; whereas, not only is the Russian incapable of acquiring capital, but also he exhausts it <code class="docutils literal notranslate"><span class="pre">wantonly</span></code> and of sheer folly. None the less we Russians often need money; wherefore, we are glad of, and greatly devoted to, a method of acquisition like <code class="docutils literal notranslate"><span class="pre">roulette</span></code>—whereby, in a couple of hours, one may grow rich without doing any work. This method, I repeat, has a great attraction for us, but since we play in wanton fashion, and without taking any trouble, we almost invariably lose.” - Alexei Ivanovich</em></p>
 </div>
 <p>Let’s break it down into three distinct sections, keeping the roles clear and separate. Here’s a more focused take:</p>
 <section id="christianity">
-<h2>Christianity<a class="headerlink" href="#christianity" title="Link to this heading">#</a></h2>
+<h2>Christianity<a class="headerlink" href="#christianity" title="Permalink to this heading">#</a></h2>
 <ol class="arabic simple">
 <li><p>Strategy: law &amp; grace vs chaos &amp; desperation 💵🎱🎲🃏</p></li>
 <li><p>Payoff: <code class="docutils literal notranslate"><span class="pre">salvation</span></code> through effort &amp; grace vs <code class="docutils literal notranslate"><span class="pre">redemption</span></code> in luck &amp; chance 🦠 🧬 🧪</p></li>
@@ -431,12 +431,12 @@ document.write(`
 </li>
 </ol>
 <section id="civilized-vs-wanton-a-moral-reckoning-through-the-lens-of-rock-of-ages">
-<h3><strong>Civilized vs. Wanton: A Moral Reckoning through the Lens of “Rock of Ages”</strong><a class="headerlink" href="#civilized-vs-wanton-a-moral-reckoning-through-the-lens-of-rock-of-ages" title="Link to this heading">#</a></h3>
+<h3><strong>Civilized vs. Wanton: A Moral Reckoning through the Lens of “Rock of Ages”</strong><a class="headerlink" href="#civilized-vs-wanton-a-moral-reckoning-through-the-lens-of-rock-of-ages" title="Permalink to this heading">#</a></h3>
 <p>The juxtaposition between the <strong>civilized Westerner</strong> and the <strong>wanton Russian</strong> can be explored not only through economic or strategic contrasts but also through a spiritual lens, as seen in the themes of salvation, grace, and human frailty in the hymn <em>Rock of Ages</em>. The hymn, deeply rooted in Christian theology, reflects on the human condition and the need for divine intervention—a concept that can mirror the metaphor of the Westerner and the Russian in their respective approaches to life, fate, and morality.</p>
 </section>
 <hr class="docutils" />
 <section id="strategy-law-and-grace-vs-chaos-and-desperation">
-<h3><strong>1. Strategy: Law and Grace vs. Chaos and Desperation</strong><a class="headerlink" href="#strategy-law-and-grace-vs-chaos-and-desperation" title="Link to this heading">#</a></h3>
+<h3><strong>1. Strategy: Law and Grace vs. Chaos and Desperation</strong><a class="headerlink" href="#strategy-law-and-grace-vs-chaos-and-desperation" title="Permalink to this heading">#</a></h3>
 <ul class="simple">
 <li><p><strong>The Civilized Westerner (Law and Grace):</strong><br />
 In the hymn, the singer acknowledges that <strong>“not the labors of my hands can fulfill thy law’s demands.”</strong> This echoes the Western strategy of life, which is based on a framework of rules, order, and striving toward perfection. The Westerner, like the hymn’s supplicant, understands that human efforts alone cannot fully guarantee success, but there is a reliance on <strong>systems of grace and order</strong> that ultimately guide their survival. Their strategy incorporates a balance between hard work and faith in a higher law or structure that governs outcomes—be it capitalism, legal systems, or ethical norms.</p>
@@ -454,7 +454,7 @@ The Russian, by contrast, embodies <strong>desperation</strong> and reckless aba
 </section>
 <hr class="docutils" />
 <section id="payoff-salvation-through-effort-and-grace-vs-ruin-through-wanton-folly">
-<h3><strong>2. Payoff: Salvation through Effort and Grace vs. Ruin through Wanton Folly</strong><a class="headerlink" href="#payoff-salvation-through-effort-and-grace-vs-ruin-through-wanton-folly" title="Link to this heading">#</a></h3>
+<h3><strong>2. Payoff: Salvation through Effort and Grace vs. Ruin through Wanton Folly</strong><a class="headerlink" href="#payoff-salvation-through-effort-and-grace-vs-ruin-through-wanton-folly" title="Permalink to this heading">#</a></h3>
 <ul class="simple">
 <li><p><strong>The Westerner’s Payoff (Effort and Grace):</strong><br />
 In the hymn, the lines <strong>“nothing in my hand I bring, simply to the cross I cling”</strong> capture the essence of the Westerner’s relationship with capital and fate. The Westerner knows that <strong>effort alone</strong>—whether labor, intellect, or strategy—is insufficient. Their accumulation of capital or moral standing is underpinned by a faith in external systems that provide security and continuity. For the Westerner, the payoff is in <strong>stability and salvation</strong>, a sense of ongoing protection provided by both their efforts and their connection to something larger—whether it’s the grace of a capitalist system or divine order.</p>
@@ -472,7 +472,7 @@ The Russian, in contrast, plays life like a game of <strong>Russian roulette</st
 </section>
 <hr class="docutils" />
 <section id="nash-equilibrium-preparedness-and-submission-vs-desperation-and-plea">
-<h3><strong>3. Nash Equilibrium: Preparedness and Submission vs. Desperation and Plea</strong><a class="headerlink" href="#nash-equilibrium-preparedness-and-submission-vs-desperation-and-plea" title="Link to this heading">#</a></h3>
+<h3><strong>3. Nash Equilibrium: Preparedness and Submission vs. Desperation and Plea</strong><a class="headerlink" href="#nash-equilibrium-preparedness-and-submission-vs-desperation-and-plea" title="Permalink to this heading">#</a></h3>
 <ul class="simple">
 <li><p><strong>Westerner’s Nash Equilibrium (Preparedness and Submission):</strong><br />
 The Westerner, like the hymn’s supplicant, reaches a point of <strong>equilibrium</strong> through a balance of preparedness and submission to external structures. In the line <strong>“let me hide myself in thee”</strong>, there is a sense of submission, not to chance, but to a structure that provides shelter and safety. The Westerner’s equilibrium is found in the acknowledgment of their limitations and the reliance on structures—capital, law, and faith—that offer them a <strong>buffer against the unpredictability</strong> of life. This is the Nash equilibrium where their strategy yields the highest payoff, combining effort with external grace.</p>
@@ -490,7 +490,7 @@ For the Russian, equilibrium is much more precarious. In the hymn’s line <stro
 </section>
 <hr class="docutils" />
 <section id="conclusion-the-rock-of-order-vs-the-chaos-of-wantonness">
-<h3><strong>Conclusion: The Rock of Order vs. The Chaos of Wantonness</strong><a class="headerlink" href="#conclusion-the-rock-of-order-vs-the-chaos-of-wantonness" title="Link to this heading">#</a></h3>
+<h3><strong>Conclusion: The Rock of Order vs. The Chaos of Wantonness</strong><a class="headerlink" href="#conclusion-the-rock-of-order-vs-the-chaos-of-wantonness" title="Permalink to this heading">#</a></h3>
 <p>In the moral and spiritual reckoning of the <em>Rock of Ages</em>, the civilized Westerner finds security and salvation through effort combined with grace, while the wanton Russian faces the chaos of life without structure, relying on desperate gambles and fleeting moments of luck. The Westerner clings to systems of protection—economic, moral, and divine—while the Russian, in their wantonness, flirts with destruction, seeking salvation in the thrill of chance.</p>
 <p>This structured contrast highlights the fundamental differences in how these two archetypes approach life, fate, and morality—one with measured, strategic effort, and the other with reckless abandon, each finding a different form of equilibrium in the world’s unpredictable game.</p>
 <Details>
