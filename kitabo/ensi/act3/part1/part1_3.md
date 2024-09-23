@@ -1,6 +1,9 @@
 # Chapter 3
 ## Tyler Perry and the School of Athens – A Reharmonization of Popular Criticism
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UgkxskZE_Eh_Mv-RwQZ0GJutilfkZLvyi1IC" frameborder="0" allowfullscreen></iframe>
+
+
 ```{admonition} Tyler Perry
 _[Divorce in the black](https://en.wikipedia.org/wiki/Divorce_in_the_Black)_, with faith in yourself & the dignity of your circumstance intact
 ```
