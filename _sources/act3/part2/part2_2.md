@@ -7,6 +7,49 @@
                      /
                      3. Scales
 
+<Details>
+    <Summary></Summary>
+
+OldTowneRoad
+
+### Phonetics
+- Orchestration
+   - Banjo
+   - 808
+   - Voice
+
+### Temperament
+- Equal: $f(Hz)$ [Fractals](https://abikesa.github.io/nietzsche/dancing/dancing.html#dancing) $440Hz \times 2^{\frac{N}{12}}$, $S_0(t) \times e^{logHR}$, $\frac{S N(d_1)}{K N(d_2)} \times e^{rT}$
+
+### Scales
+- Melody: i (Pentatonic)
+- Harmony: Chromatic
+   - 3rd - ♯9 - 9 - ♭9 (Mixolydian)
+   - V7:`3rd` - i/VII:`♭7th` - IV7:`3rd` - VI/III:`Root` (Progressive)
+
+### Latent-Space
+#### Modal
+- i (Aeolian) 
+
+### Chordal 
+- V7
+- i7/VII
+- IV7
+- VI/III
+
+#### Groove
+- 8 bars x N
+
+### NexToken
+- The 808 bass "Crip Walks" through the V7 inversions (root, ♯9, ♭7th, and ♭13th)
+
+### Arc
+- Emotional: Not Prominent
+- Tragic: Eternal, Recurrent
+- Narrative: Closed Loop Absent
+
+</Details>
+
 This musical progression is an excellent way to map out the philosophical journey from Dostoevsky’s primal antihero to Nietzsche’s tragic, striving man, and finally to Marx’s godlike collective hero.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MqTNPZNDL8A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
