@@ -1,4 +1,5 @@
-# Stages
+# Chapter 2
+## Stages
 
          1. Phonetics
                      \
