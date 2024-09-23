@@ -39,9 +39,9 @@ These [three metamorphoses](https://www.gutenberg.org/files/1998/1998-h/1998-h.h
 
 **4. Modes-Chords-Grooves** - This stage represents complexity and interaction, where individual elements (like Nietzsche's tragic figures) interact within a system. Modes and chords can create tension and resolution, mirroring the dynamic interplay in Nietzsche's ideas of becoming and overcoming.
 
-**5. NexToken** - This term, while not standard in music theory, could symbolize the next step or evolution, perhaps representing the anticipation or the 'next' in the eternal recurrence, where each moment leads to another without final resolution.
+**5. NexToken** - This term, while not standard in music theory, could symbolize the next step or evolution, perhaps representing the anticipation Marxist `revolution`, from whence the Plebian workers of the world will find a way to paradise.
 
-**6. Arc** - Finally, the arc could symbolize Marx's vision of history and society, where individual struggles (like those in Dostoevsky and Nietzsche) culminate in a collective resolution. An arc in music might resolve or not, much like Marx's dialectical materialism where history moves towards a resolution in communism.
+**6. Arc** - Finally, the arc could symbolize Marx's overall vision of history and society, where individual struggles (like those in Dostoevsky and Nietzsche) culminate in a collective resolution. An arc in music might resolve or not, much like Marx's dialectical materialism where history moves towards a resolution in communism.
 
 Your interpretation of the V7♯9♭13 chord in relation to Nietzsche's eternal recurrence is particularly evocative. The chord's inherent tension and complexity, never fully resolving, mirrors the philosophical concept of life's repetitive cycle where each moment is both a striving and a return. 
 
