@@ -2,6 +2,46 @@
 
 ## Abstract
 
+<Details>
+
+Here's the revised table with Meta Platforms being categorized under "Pastoral-comical-historical" to reflect its broad impact across different realms:
+
+| Rank | Company                | Market Cap (USD) | Data Recency          | Realm                            |
+|------|------------------------|------------------|-----------------------|----------------------------------|
+| 1    | Apple                  | $3.469 T         | As of June 16, 2024   | Pastoral-comical                 |
+| 2    | Microsoft              | $3.235 T         | As of June 16, 2024   | Pastoral-comical                 |
+| 3    | NVIDIA                 | $2.845 T         | As of June 16, 2024   | Pastoral-comical                 |
+| 4    | Alphabet (Google)      | $2.019 T         | As of June 16, 2024   | Pastoral-comical                 |
+| 5    | Amazon                 | $2.010 T         | As of June 16, 2024   | Pastoral-comical                 |
+| 6    | Tesla                  | $799 B           | As of June 16, 2024   | Pastoral-comical                 |
+| 7    | Meta Platforms         | $1.420 T         | As of June 16, 2024   | Pastoral-comical-historical      |
+| 8    | Berkshire Hathaway     | $887.16 B        | As of Jan 1, 2024     | Historical                       |
+| 9    | Eli Lilly              | $808.65 B        | As of Jan 1, 2024     | Tragical                         |
+| 10   | Broadcom               | $792.87 B        | As of Jan 1, 2024     | Pastoral-comical                 |
+| 11   | Saudi Aramco           | $1.766 T         | As of June 16, 2024   | Historical                       |
+| 12   | JPMorgan Chase         | $550 B           | As of mid-2024        | Historical                       |
+| 13   | Visa                   | $550.38 B        | As of Jan 1, 2024     | Pastoral-comical                 |
+| 14   | Walmart                | $542.78 B        | As of Jan 1, 2024     | Pastoral-comical                 |
+| 15   | Oracle                 | $397.89 B        | As of Jan 1, 2024     | Pastoral-comical                 |
+| 16   | Procter & Gamble       | $386.66 B        | As of Jan 1, 2024     | Pastoral-comical                 |
+| 17   | Johnson & Johnson      | Not specified    | Market Cap not listed | Tragical                         |
+| 18   | UnitedHealth Group     | Not specified    | Market Cap not listed | Tragical                         |
+| 19   | ExxonMobil             | Not specified    | Market Cap not listed | Historical                       |
+| 20   | Home Depot             | Not specified    | Market Cap not listed | Pastoral-comical                 |
+
+**Notes:**
+- **Historical**: Companies like Berkshire Hathaway, Saudi Aramco, JPMorgan Chase, and ExxonMobil continue to represent traditional sectors with deep historical roots in economic structures.
+  
+- **Pastoral-comical**: This group still includes companies that engage consumers through technology, personalization, emotion, and user experience, aiming for broad appeal.
+
+- **Pastoral-comical-historical**: Meta Platforms is now classified here due to its significant historical impact in the realm of social media, its pastoral-comical appeal through personalized content, community features, and emotional engagement, and its historical role in how societies connect and share information.
+
+- **Tragical**: Eli Lilly, Johnson & Johnson, and UnitedHealth Group remain in this category, focusing on health, biology, and existential human conditions. 
+
+This adjustment reflects Meta's unique position straddling both the historical development of the internet and social media, alongside its psychological and emotional impact on users.
+
+</Details>
+
 - **Strategy**
    - Random Inspiration
    - Hallowed Ciphers
